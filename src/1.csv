@@ -1,0 +1,7 @@
+ID,Fecha,Altitud (m),Velocidad (km/h),Estado
+DR001,2024-10-01,120,60,En vuelo
+DR002,2024-10-01,150,55,En vuelo
+DR003,2024-10-02,100,45,En mantenimiento
+DR004,2024-10-02,130,65,En vuelo
+DR005,2024-10-03,90,40,En vuelo
+DR006,2024-10-03,110,50,Atterrizado
